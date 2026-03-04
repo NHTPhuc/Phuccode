@@ -1,0 +1,9 @@
+{
+  "name": "time-management-webapp",
+  "version": "1.0.0",
+  "description": "English time management web app with auth and REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
